@@ -77,9 +77,8 @@ Posteriormente, usei um sistema básico de if e else para poder definir os parâ
             System.out.println("Seu salário por hora trabalhada é: " + salario);
             System.out.println("Seu salário mensal é: R$" + calc);
          } ``
-## Finalização
 
-## Conclusão
+## Finalização
 Aqui por si só já estamos com o código finalizado, porém, decidi adicionar algo que trouxesse uma automatização extra para o código. Portanto, realizei um pequeno código de WHILE. Basicamente, eu queria que o sistema pudesse reiniciar de forma automática ao chegar no fim. A intenção era que ao chegar no fim do programa, ele desse a opção de pedir e buscar por um novo funcionário para que possamos obter a identificação e os resultados dele. Portanto, adicionei um System.out.print questionando o usuário se deseja buscar ou não um outro funcionário. Caso a resposta seja "n", ele irá encerrar o programa; caso a resposta seja "s", ele voltará desde o começo para que o processo se repita. Lá no começo do código (ainda nas variáveis), eu coloquei um comando:
 
       while(true) {
