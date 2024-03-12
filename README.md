@@ -96,3 +96,5 @@ para que ele pudesse ser o início da repetição, ou melhor do laço. No final 
   ## Conclusão
 Não é nada tão avançado e tão absurdo, se trata apenas do básico por enquanto. Mas com o tempo, os códigos aqui serão aprimorados, e espero até o fim desse ano estar conseguindo fazer coisas incríveis e enormes com programação. Espero poder evoluir muito com a faculdade e o curso que realizarei e espero poder visualizar isso de forma cada vez mais nítida ao analisar os códigos antes e depois aqui. E é claro que com o decorrer do tempo, esse código e os próximos serão atualizados, mas sempre mantendo suas versões iniciais, as primeiras postadas aqui. Atualizarei elas para que eu possa ver a melhora e diferença em meus conhecimentos. Mesmo que esse código seja inútil para você, peço para que acesse a página e dê uma lida, me corrija, faça recomendações e auxilie caso algo possa ser melhorado. Sempre disposto a receber críticas e é isso.
 
+<a href = "https://github.com/KauaaCastro/KauaaCastro">perfil</a>
+
