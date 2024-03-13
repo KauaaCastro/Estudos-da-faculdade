@@ -24,7 +24,7 @@ Uma explicação rápida a respeito: If e Else se trata do "se e somente se", ou
       } Else { 
       Se por algum motivo 2 for maior que 3 ele não irá rodar o código acima (if) mas sim este que está lendo, o else, sempre que if for verdadeiro, rodará o       if, quando if for falso, rodará else
       }
-      Agora vamos para o code em si, abaixo está o código que eu recomendo usar:
+Agora vamos para o code em si, abaixo está o código que eu recomendo usar:
         if(a % m == 0){
             System.out.println("é multiplo");      
       } else{
