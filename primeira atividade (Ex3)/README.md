@@ -1,4 +1,4 @@
-# Estudos da faculdade
+# Sobre a facul e o exercicio 3
 ### Um breve resumo sobre a faculdade até agora
 
 Até o momento em que este pequeno e simples comando está sendo postado, vimos e aprendemos um pouco do básico sobre Java, comandos como variáveis, while, if e else, break, Scanner e algumas outras coisas mais básicas do Java. Estou aprendendo e programando utilizando o VSCode e às vezes o IntelliJ (afinal, quero aprender em mais de um programa). Essa é apenas uma tarefa simples na qual meu professor pediu para que pudéssemos "codar" ela de forma simples no terminal Java. Fiz um código utilizando o if e else para poder determinar as frases e condições e decidi aprimorar um pouco utilizando o while e o break para criar um laço de repetição que ocorre toda vez que o comando é finalizado, perguntando assim se desejará continuar usando ou não. Explicarei isso melhor abaixo, quando eu for falar melhor sobre o objetivo e o intuito dessa atividade passada pelo professor.
