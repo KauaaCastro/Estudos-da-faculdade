@@ -6,8 +6,6 @@ public class impares {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-
-       while(true) {
         System.out.println("digite o valor de X (limitando-se somente aos números de 1 a 100)");
       int Nfinal = scanner.nextInt();
 
@@ -22,15 +20,7 @@ public class impares {
           impar++;
 
         }
-      }
-
-      
-      
-      
-      
-      
-      
-      }        
-    }
-  }
+      }  
+  }        
+}
 
