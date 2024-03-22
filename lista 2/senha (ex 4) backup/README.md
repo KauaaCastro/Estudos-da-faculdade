@@ -6,7 +6,7 @@ Esse é um exercício que eu gostei bastante, no início ele aparenta ser bem co
 
 # Declarando 
 
-       Scanner scanner = new Scanner(System.in); 
+     Scanner scanner = new Scanner(System.in); 
       while(true){ 
       System.out.println("digite a senha (PIN) de acesso     para obter acesso");
       int tentativa = scanner.nextInt();
