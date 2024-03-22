@@ -8,7 +8,7 @@ Esse é um exercício que eu gostei bastante, no início ele aparenta ser bem co
 
      Scanner scanner = new Scanner(System.in); 
       while(true){ 
-      System.out.println("digite a senha (PIN) de acesso     para obter acesso");
+      System.out.println("digite a senha (PIN) de acesso para obter acesso");
       int tentativa = scanner.nextInt();
 
 Aqui se trata de mais um pouco do mesmo de sempre, declarar a variável Scanner, System out println para escrever no terminal o que o usuário deve fazer e declarei INT como tentativa, portanto quando o usuário escrever a senha, ela será armazenada em "tentativa" e a partir dali será enviada e utilizada no resto do code para o que for necessário.
