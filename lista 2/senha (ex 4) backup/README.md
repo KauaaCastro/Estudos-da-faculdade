@@ -23,7 +23,7 @@ Também ali declarei o comando while que caso ainda resta alguma dúvida, será 
       } else {
         System.out.println("senha inválida");
 
-Aqui eu fiz mais um comando bem simples e rápido de se entender, o famoso if e Else, declarei que SE E SOMENTE SE O NÚMERO DIGITADO PELO USUARIO FOR IGUAL A 2024, ELE DEVE EXECUTAR E EXIBIR "ACESSO PERMITIDO" NO TERMINAL, caso contrário (a senha for falsa) deve mostrar senha inválida e voltar para o while de forma automática.
+Aqui eu fiz mais um comando bem simples e rápido de se entender, o famoso if e Else, declarei que * SE E SOMENTE SE O NÚMERO DIGITADO PELO USUARIO FOR IGUAL A 2024, ELE DEVE EXECUTAR E EXIBIR "ACESSO PERMITIDO" NO TERMINAL, caso contrário (a senha for falsa) deve mostrar senha inválida e voltar para o while de forma automática. *
 
 # Break;
 Vale lembrar que coloquei o comando "break;" após o system out println do acesso permitido em if devido ao uso do while na encima, basicamente o que fiz foi "quebrar" o looping, portanto quando o looping do while for verdadeiro (a senha for 2024) ele irá exibir a mensagem e posteriormente irá executar o break, basicamente o que o break faz é quebrar esse verdade e tornar falso, encerrando portanto o comando while de forma com que ele não volte a ser executado e o comando seja finalizado. 
